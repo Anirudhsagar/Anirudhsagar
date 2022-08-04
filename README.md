@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anirudhsagar
-- 👀 I’m interested in ... Coading
+- 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Node js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... anirudh2sagar@gmail.com
